@@ -10,7 +10,8 @@ CCTV7 7M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv7
 CCTV8 7M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv8
 CCTV9 7M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv9
 CCTV10 7M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv10
-CCTV11 7M1080 http://39.165.35.152:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV11 7M1080 #EXTINF:-1  tvg-id="12" group-title="超清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
 CCTV12 7M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv12
 CCTV13 7M1080 http://39.165.35.152:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14 7M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv14
