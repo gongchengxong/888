@@ -1,40 +1,38 @@
 央视频道,#genre#
-
-CCTV1HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv1
-CCTV2HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv2
-CCTV3HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv3
-CCTV4HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv4
-CCTV5HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv5
-CCTV5+HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv6
-CCTV7HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv7
-CCTV8HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv8
-CCTV9HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv9
-CCTV10HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv10
-CCTV11HD,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
-CCTV12HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv12
-CCTV13HD,http://39.165.35.152:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv14
-CCTV15HD,http://39.165.35.152:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV16HD,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17HD,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv17
-CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-CCTV世界地理 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=sjdl
-CCTV兵器科技 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=bqkj
-CCTV卫生健康 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=wsjk
-CCTV央视台球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=ystq
-CCTV女性时尚 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=nxss
-CCTV怀旧剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hjjc
-CCTV文化精品 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=whjp
-CCTV第一剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=dyjc
-CCTV风云剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyjc
-CCTV风云足球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyzq
-CCTV风云音乐 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyyy
-CCTV高尔夫网球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=gefwq
-中国教育1 7M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=zgjy1
+CCTV1综合,http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+CCTV2财经,http://120.196.232.53:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+CCTV2财经,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
+CCTV3综艺,http://120.196.232.49:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV3综艺,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
+CCTV4中文国际,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+CCTV4中文国际,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
+CCTV5体育,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
+CCTV5+体育赛事,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV5+体育赛事,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
+CCTV5+体育赛事,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
+CCTV6电影,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+CCTV6电影,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
+CCTV7国防军事,http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+CCTV7国防军事,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
+CCTV8电视剧,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+CCTV8电视剧,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41142/index.m3u8
+CCTV9记录,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+CCTV9记录,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
+CCTV10科教,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+CCTV10科教,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
+CCTV11戏曲,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV11戏曲,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
+CCTV12社会与法,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
+CCTV12社会与法,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
+CCTV13新闻,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+CCTV13新闻,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
+CCTV14少儿,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+CCTV14少儿,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
+CCTV15音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+CCTV16奥林匹克,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
+CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+CCTV17农业农村,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 卫视频道,#genre#
 贵州卫视,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226165/1/index.m3u8?fmt=ts2hls
